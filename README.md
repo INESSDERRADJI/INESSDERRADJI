@@ -1,5 +1,5 @@
 
-## Hi, I'm Iness Yasmine Derradji 👩‍💻
+## Hi, I'm Iness Yasmine Derradji 
 Engineering student in Computer Science and Mathematical Engineering at Polytech Paris-Saclay, Université Paris-Saclay. Interested in data science, artificial intelligence, applied computer science and software development.
 
 # 💻 Tech Stack:
